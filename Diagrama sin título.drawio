@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T19:29:36.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="dhS39Z2U4hvIhCnuw9WU" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T19:35:06.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oIQuyt8kOnAeDJjPzTEz" version="22.1.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1843" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -328,6 +328,15 @@
             <mxPoint x="760" y="300" as="sourcePoint" />
             <mxPoint x="860" y="200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pkwl3-ZVG-avqCv_8zal-76" value="user_id: el usuario que viene por request?" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="5" width="200" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="pkwl3-ZVG-avqCv_8zal-77" value="assigned_by_id: quien hace la asignacion de un ticket&lt;br&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="105" width="200" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="pkwl3-ZVG-avqCv_8zal-78" value="assigned_to_id: a quien le asginaron el ticket" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="200" width="200" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
