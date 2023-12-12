@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T18:48:55.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="GCWtr9OM4ifEXjurEYhx" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T18:52:59.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="b27kgphZpz6rEOoPEV3N" version="22.1.7" type="github">
   <diagram name="Página-1" id="uP4vXigWwdHrko6M8Cvu">
     <mxGraphModel dx="2206" dy="3126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CEjSGQ_9NDGecTtwq8PR-248" value="Meaning" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=meaning;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="-117.5" y="957.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="CEjSGQ_9NDGecTtwq8PR-246" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-281" y="900" width="1350" height="1350" as="geometry" />
+        </mxCell>
         <mxCell id="CEjSGQ_9NDGecTtwq8PR-225" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CEjSGQ_9NDGecTtwq8PR-168" target="CEjSGQ_9NDGecTtwq8PR-219">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-110" y="1310" as="sourcePoint" />
@@ -478,7 +484,7 @@
           <mxGeometry x="797.5" y="1160" width="155" height="110" as="geometry" />
         </mxCell>
         <mxCell id="CEjSGQ_9NDGecTtwq8PR-212" value="CAS_STATUS_TICKET" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1460" width="200" height="180" as="geometry" />
+          <mxGeometry x="870" y="1460" width="200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="CEjSGQ_9NDGecTtwq8PR-213" value="ticket_uid" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CEjSGQ_9NDGecTtwq8PR-212">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
@@ -557,6 +563,18 @@
               <mxPoint x="370" y="1750" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CEjSGQ_9NDGecTtwq8PR-245" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CEjSGQ_9NDGecTtwq8PR-244" target="CEjSGQ_9NDGecTtwq8PR-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CEjSGQ_9NDGecTtwq8PR-244" value="ESTA TABLA TIENE LO QUE SE LE HACE REFERENTE A LA SOLICITUD INICIAL AL MOMENTO DE QUE SE CREA EL CASO DEL CAS" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="930" width="155" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CEjSGQ_9NDGecTtwq8PR-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CEjSGQ_9NDGecTtwq8PR-246" target="CEjSGQ_9NDGecTtwq8PR-246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CEjSGQ_9NDGecTtwq8PR-249" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.sumerian;" vertex="1" parent="1">
+          <mxGeometry x="-281" y="900" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
