@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T20:21:54.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="JPQaUCTWwHuQ0XNBHpCR" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T20:24:34.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="fuMvw53BpuAFIvuGana5" version="22.1.7" type="github">
   <diagram name="Página-1" id="uP4vXigWwdHrko6M8Cvu">
     <mxGraphModel dx="2732" dy="3265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -640,7 +640,7 @@
           <mxGeometry x="-72" y="-1780" width="212" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CEjSGQ_9NDGecTtwq8PR-270" value="conversation_status" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="-1630" width="200" height="150" as="geometry" />
+          <mxGeometry x="710" y="-1527" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="CEjSGQ_9NDGecTtwq8PR-271" value="conversation_uid" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CEjSGQ_9NDGecTtwq8PR-270">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
@@ -673,7 +673,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CEjSGQ_9NDGecTtwq8PR-281" value="el historial de asignacion de ticket, puede ser en el caso de cuando es cogido por un usuario o es asignado a otra persona&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="850" y="-1840" width="150" height="120" as="geometry" />
+          <mxGeometry x="810" y="-1930" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CEjSGQ_9NDGecTtwq8PR-282" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="CEjSGQ_9NDGecTtwq8PR-271" source="CEjSGQ_9NDGecTtwq8PR-264">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -715,7 +715,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CEjSGQ_9NDGecTtwq8PR-294" value="ticket" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-2050" width="160" height="116" as="geometry" />
+          <mxGeometry x="360" y="-2080" width="160" height="116" as="geometry" />
         </mxCell>
         <mxCell id="CEjSGQ_9NDGecTtwq8PR-295" value="uuid" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="CEjSGQ_9NDGecTtwq8PR-294">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -754,7 +754,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CEjSGQ_9NDGecTtwq8PR-307" value="solicitud" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-1480" width="200" height="116" as="geometry" />
+          <mxGeometry x="560" y="-1610" width="200" height="116" as="geometry" />
         </mxCell>
         <mxCell id="CEjSGQ_9NDGecTtwq8PR-308" value="conversation_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="CEjSGQ_9NDGecTtwq8PR-307">
           <mxGeometry y="26" width="200" height="30" as="geometry" />
