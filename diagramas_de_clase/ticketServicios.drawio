@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T18:52:59.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="b27kgphZpz6rEOoPEV3N" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T19:02:52.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="rvD-bpq38q5YLocr8_Op" version="22.1.7" type="github">
   <diagram name="Página-1" id="uP4vXigWwdHrko6M8Cvu">
     <mxGraphModel dx="2206" dy="3126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -414,7 +414,7 @@
         <mxCell id="CEjSGQ_9NDGecTtwq8PR-179" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CEjSGQ_9NDGecTtwq8PR-178" target="CEjSGQ_9NDGecTtwq8PR-177">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CEjSGQ_9NDGecTtwq8PR-178" value="esta tabla me une la solicitud con los id masivo o&amp;nbsp; los que esten llegando por bloques" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="CEjSGQ_9NDGecTtwq8PR-178" value="EN ESTA TABLA AMARRAMOS CADA OBJETO ID , CON EL CAS INICIAL&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="500" y="1070" width="155" height="110" as="geometry" />
         </mxCell>
         <mxCell id="CEjSGQ_9NDGecTtwq8PR-181" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=1;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CEjSGQ_9NDGecTtwq8PR-168" target="CEjSGQ_9NDGecTtwq8PR-176">
