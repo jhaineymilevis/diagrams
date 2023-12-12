@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T21:29:17.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="RzsA3tbT3_0QLlM_82PU" version="22.1.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-12T21:32:25.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Edpgr4QsUFlbXOy54rtU" version="22.1.7" type="github" pages="4">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2368" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1530,7 +1530,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="63Hzkk0HB2egqQU1Mt12" name="Página-4">
-    <mxGraphModel dx="1290" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="1393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1564,6 +1564,17 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="470" y="260" as="sourcePoint" />
             <mxPoint x="550" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Type="MONGO DB" c4Container="MONGO DB" c4Technology="ATLAS" c4Description="ALMACENA SISTEMA CONVERSACIONAL" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="tTOVVw9utxca3KkvQjdO-8">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="600" y="-60" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="tTOVVw9utxca3KkvQjdO-10" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.715;exitY=-0.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tTOVVw9utxca3KkvQjdO-3" target="tTOVVw9utxca3KkvQjdO-8">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="190" y="280" as="sourcePoint" />
+            <mxPoint x="190" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
