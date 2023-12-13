@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T15:30:32.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xdIFmVhfrs2g7OJaLMEv" version="22.1.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-13T15:30:54.242Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kFm02EuXbAmlbxlxtkbF" version="22.1.8" type="github" pages="4">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2368" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1244,7 +1244,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z3TldACRxIbbbuszhCg8-121" value="el historial de asignacion de ticket, puede ser en el caso de cuando es cogido por un usuario o es asignado a otra persona&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#66FF66;" parent="1" vertex="1">
-          <mxGeometry x="-1270" y="-640" width="140" height="120" as="geometry" />
+          <mxGeometry x="-1300" y="-640" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Z3TldACRxIbbbuszhCg8-122" value="CAS_CHAT_STATUS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="-1040" y="-430" width="200" height="180" as="geometry" />
@@ -1561,6 +1561,9 @@
               <mxPoint x="-1140" y="-190" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KwM5DHQT_85kAxJ4NMOj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=55;exitDy=0;exitPerimeter=0;entryX=0.189;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z3TldACRxIbbbuszhCg8-121" target="Z3TldACRxIbbbuszhCg8-121">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
