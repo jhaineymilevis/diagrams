@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T15:30:54.242Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kFm02EuXbAmlbxlxtkbF" version="22.1.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-13T15:31:38.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9v0UIoliT3wnqKdXSG8A" version="22.1.8" type="github" pages="4">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2368" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1098,7 +1098,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z3TldACRxIbbbuszhCg8-72" value="CAS_REQUEST(COLAS)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="-1650" y="-1060" width="190" height="250" as="geometry" />
+          <mxGeometry x="-1650" y="-1060" width="190" height="280" as="geometry" />
         </mxCell>
         <mxCell id="Z3TldACRxIbbbuszhCg8-73" value="ID_CAS" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="Z3TldACRxIbbbuszhCg8-72" vertex="1">
           <mxGeometry y="26" width="190" height="30" as="geometry" />
@@ -1118,8 +1118,11 @@
         <mxCell id="ggjGAcgSAJ4QRRsHwEoL-15" value="empresa_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="Z3TldACRxIbbbuszhCg8-72" vertex="1">
           <mxGeometry y="190" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KwM5DHQT_85kAxJ4NMOj-1" value="cas_data_object" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Z3TldACRxIbbbuszhCg8-72">
+        <mxCell id="KwM5DHQT_85kAxJ4NMOj-1" value="object_id( id de la orden, garantia, erc)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Z3TldACRxIbbbuszhCg8-72">
           <mxGeometry y="220" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KwM5DHQT_85kAxJ4NMOj-4" value="object_type (garantia, orden , etc)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Z3TldACRxIbbbuszhCg8-72">
+          <mxGeometry y="250" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z3TldACRxIbbbuszhCg8-78" value="CAS_DATA_OBJET" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="-1110" y="-1080" width="200" height="218" as="geometry" />
