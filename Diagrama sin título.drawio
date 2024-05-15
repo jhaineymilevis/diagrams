@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T21:19:36.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="dOJKe0RfwDwMdyX7eyc7" version="24.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-05-15T21:20:31.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="nH0bmRndqMVaYWMrJjdF" version="24.3.0" type="github" pages="5">
   <diagram id="DcVJZMuD3yvpH-XxqjJy" name="Idea inicial Cas portgres y mongodb">
     <mxGraphModel dx="2788" dy="2442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1711,7 +1711,7 @@
         <mxCell id="szSIDD4giV2YJQMpPc7q-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="szSIDD4giV2YJQMpPc7q-63" target="szSIDD4giV2YJQMpPc7q-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="szSIDD4giV2YJQMpPc7q-83" value="status_homologa" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="szSIDD4giV2YJQMpPc7q-83" value="status_homologar" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="370" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="szSIDD4giV2YJQMpPc7q-84" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="szSIDD4giV2YJQMpPc7q-83">
@@ -1721,6 +1721,18 @@
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="szSIDD4giV2YJQMpPc7q-86" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="szSIDD4giV2YJQMpPc7q-83">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="szSIDD4giV2YJQMpPc7q-87" value="status_homologado" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="370" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="szSIDD4giV2YJQMpPc7q-88" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="szSIDD4giV2YJQMpPc7q-87">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="szSIDD4giV2YJQMpPc7q-89" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="szSIDD4giV2YJQMpPc7q-87">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="szSIDD4giV2YJQMpPc7q-90" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="szSIDD4giV2YJQMpPc7q-87">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
